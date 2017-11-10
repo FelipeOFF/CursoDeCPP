@@ -1,0 +1,7 @@
+Exercise 1.
+
+Write a program that asks the user to input three different line of text (3 strings) then using cout print the combination of the three in the console.
+
+Exercise 2.
+
+Using the console input write a program that asks the user to input two integer numbers. After that, exchange the values inputted and print them in the console.
