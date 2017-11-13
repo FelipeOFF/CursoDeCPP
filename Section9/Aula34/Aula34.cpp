@@ -1,6 +1,5 @@
 // Funções e ponteiros
 
-#include "stdafx.h"
 #include "iostream"
 
 using namespace std;
